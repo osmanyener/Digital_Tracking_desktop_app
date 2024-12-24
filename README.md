@@ -6,13 +6,13 @@
 
 --> I am working on developing web-based and mobile-based application versions of this demo project.
 
-The system has some features:
-  --> gives queue number to customers
-  --> calculates the process price, efficiency, claim_of_oil for each customer
-  --> saves the data to MSSQL local server
-  --> reports daily or according to the specified date
-  --> prints information_bill for each customer
-  --> exports the records of customers as an excel file
+The system has some features: </br>
+  --> gives queue number to customers </br>
+  --> calculates the process price, efficiency, claim_of_oil for each customer </br>
+  --> saves the data to MSSQL local server </br>
+  --> reports daily or according to the specified date </br>
+  --> prints information_bill for each customer </br>
+  --> exports the records of customers as an excel file </br>
 
 some pictures;
 ![image](https://github.com/user-attachments/assets/024538bf-f90f-46b7-803c-ac32f8f85a1c)
