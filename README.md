@@ -1,6 +1,6 @@
 # Digital_Tracking_desktop_app
 
---> This is a demo digital tracking system for 'Mekece Işık'olive oil factory. It runs on a local server.
+--> This is a demo digital tracking system for 'Mekece Işık'olive oil factory. It runs on MSSQL server.
 
 --> I used MSSQL local server
 
