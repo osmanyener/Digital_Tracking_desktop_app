@@ -2,8 +2,6 @@
 
 --> This is a demo digital tracking system for 'Mekece Işık'olive oil factory. It runs on MSSQL server.
 
---> I used MSSQL local server
-
 --> I am working on developing web-based and mobile-based application versions of this demo project.
 
 The system has some features: </br>
